@@ -6,24 +6,29 @@ This isn't just a code dump — alongside code for each day you'll find notes on
 
 ## How this repo is organised
 
-Each day gets its own folder:
-
 ```
-Day001/
-├── notes.md       # concepts, summary, gotchas
-├── questions.md   # practice / coding questions worked on that day
-└── code/          # scripts and exercises
+Day001/ ... Day100/    # one folder per day
+├── notes.md           # concepts, summary, gotchas
+├── questions.md       # practice / coding questions worked on that day
+└── code/              # scripts and exercises
+
+topics/                # reference notes by concept, shared across days
+projects/              # bigger builds that go beyond a single day
+resources.md           # links, articles, videos, tools collected along the way
+templates/DayXXX/      # blank day scaffold to copy for a new day
 ```
 
-Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort correctly. A blank copy of this structure lives in [`templates/DayXXX`](templates/DayXXX) so a new day can be scaffolded quickly.
+Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort correctly.
 
-## Progress log
+## Progress
 
-| Day | Topic | Notes | Code | Status |
-|:---:|-------|:-----:|:----:|:------:|
-| 001 | _TBD_ | [notes](Day001/notes.md) | [code](Day001/code) | 🚧 In progress |
+- [ ] **Day 001** — _TBD_ · [notes](Day001/notes.md) · [questions](Day001/questions.md) · [code](Day001/code)
 
-_Status legend: 🚧 In progress · ✅ Done · ⏳ Not started_
+## Quick links
+
+- [Topics](topics/) — concept reference notes
+- [Projects](projects/) — bigger builds
+- [Resources](resources.md) — collected links and tools
 
 ## Tech stack
 
