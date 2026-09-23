@@ -1,4 +1,4 @@
-# Day XX — <Topic>
+# Day XXX — <Topic>
 
 **Date started:** <YYYY-MM-DD>
 

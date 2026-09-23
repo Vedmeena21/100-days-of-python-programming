@@ -9,19 +9,19 @@ This isn't just a code dump — alongside code for each day you'll find notes on
 Each day gets its own folder:
 
 ```
-DayXX/
+Day001/
 ├── notes.md       # concepts, summary, gotchas
 ├── questions.md   # practice / coding questions worked on that day
 └── code/          # scripts and exercises
 ```
 
-A blank copy of this structure lives in [`templates/DayXX`](templates/DayXX) so a new day can be scaffolded quickly.
+Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort correctly. A blank copy of this structure lives in [`templates/DayXXX`](templates/DayXXX) so a new day can be scaffolded quickly.
 
 ## Progress log
 
 | Day | Topic | Notes | Code | Status |
 |:---:|-------|:-----:|:----:|:------:|
-| 01  | _TBD_ | [notes](Day01/notes.md) | [code](Day01/code) | 🚧 In progress |
+| 001 | _TBD_ | [notes](Day001/notes.md) | [code](Day001/code) | 🚧 In progress |
 
 _Status legend: 🚧 In progress · ✅ Done · ⏳ Not started_
 
