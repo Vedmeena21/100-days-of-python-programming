@@ -29,3 +29,6 @@ build/
 # Local automation, not part of the public log
 automation/
 .transcripts/
+
+# Local instructions for AI assistant, not for the public repo
+CLAUDE.md
