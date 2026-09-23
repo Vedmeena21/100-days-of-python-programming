@@ -27,5 +27,5 @@ dist/
 build/
 
 # Local automation, not part of the public log
-tools/
+automation/
 .transcripts/
