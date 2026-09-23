@@ -25,3 +25,7 @@ ENV/
 *.egg-info/
 dist/
 build/
+
+# Local automation, not part of the public log
+tools/
+.transcripts/
