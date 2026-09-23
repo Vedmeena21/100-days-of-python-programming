@@ -1,4 +1,4 @@
-# Day 001 — Python basics: print, variables, f-strings
+# Day 001: Python basics, print, variables, f-strings
 
 **Date started:** 2026-09-23
 

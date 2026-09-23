@@ -1,8 +1,8 @@
 # 100 Days of Python
 
-My personal log of 100 days spent learning Python — one folder per day, tracking what I built, what I learned, and the problems I worked through.
+My personal log of 100 days spent learning Python, one folder per day, tracking what I built, what I learned, and the problems I worked through.
 
-This isn't just a code dump — alongside code for each day you'll find notes on what I learned, practice questions I worked through, and any extra resources I picked up along the way.
+This isn't just a code dump. Alongside code for each day you'll find notes on what I learned, practice questions I worked through, and any extra resources I picked up along the way.
 
 ## How I work through each day
 
@@ -29,13 +29,13 @@ Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort 
 
 ## Progress
 
-- [x] **Day 001** — Python basics: print, variables, f-strings · [notes](Day001/notes.md) · [questions](Day001/questions.md) · [code](Day001/code)
+- [x] **Day 001**: Python basics, print, variables, f-strings · [notes](Day001/notes.md) · [questions](Day001/questions.md) · [code](Day001/code)
 
 ## Quick links
 
-- [Topics](topics/) — concept reference notes
-- [Projects](projects/) — bigger builds
-- [Resources](resources.md) — collected links and tools
+- [Topics](topics/): concept reference notes
+- [Projects](projects/): bigger builds
+- [Resources](resources.md): collected links and tools
 
 ## Tech stack
 

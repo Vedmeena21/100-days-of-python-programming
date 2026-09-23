@@ -1,4 +1,4 @@
-# Day 001 — Practice Questions
+# Day 001: Practice Questions
 
 ## Q1. Print an intro about yourself
 **Problem:** Store your name, age and a hobby in variables, print a sentence about yourself using an f-string, and print the type of each variable.

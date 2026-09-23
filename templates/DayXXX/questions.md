@@ -1,4 +1,4 @@
-# Day XXX — Practice Questions
+# Day XXX: Practice Questions
 
 ## Q1. <question title>
 **Problem:**
