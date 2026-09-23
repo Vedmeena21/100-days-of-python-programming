@@ -22,7 +22,7 @@ Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort 
 
 ## Progress
 
-- [ ] **Day 001** — _TBD_ · [notes](Day001/notes.md) · [questions](Day001/questions.md) · [code](Day001/code)
+- [x] **Day 001** — Python basics: print, variables, f-strings · [notes](Day001/notes.md) · [questions](Day001/questions.md) · [code](Day001/code)
 
 ## Quick links
 
