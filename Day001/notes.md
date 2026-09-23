@@ -16,9 +16,5 @@
 - f-string: `f"My name is {name}"`
 - type checking: `type(age)`
 
-## Gotchas / things that confused me
-- ran the script while still inside the Python REPL (>>>) instead of my normal terminal, got a syntax error because Python tried to read a shell command as Python code
-- fix was just exiting the REPL with exit() and running python3 from the actual terminal prompt
-
 ## Links & references
 -

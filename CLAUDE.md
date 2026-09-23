@@ -16,3 +16,4 @@ Everything written into this repo (notes, README, questions, topics, projects, r
 - No generic AI phrasing ("This isn't just X, it's Y", "Let's dive in", overly polished symmetrical sentences).
 - Plain, first person, a bit informal. Explain things the way you'd explain them to yourself.
 - Commit messages stay short, 3-4 words, casual.
+- Never write a "gotchas / things that confused me" section, or anything else documenting mistakes/confusion. This is public and reflects on the owner. Notes should only cover what was learned, not what went wrong.

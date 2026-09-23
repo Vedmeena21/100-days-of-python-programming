@@ -8,8 +8,5 @@
 ## Key concepts
 -
 
-## Gotchas / things that confused me
--
-
 ## Links & references
 -
