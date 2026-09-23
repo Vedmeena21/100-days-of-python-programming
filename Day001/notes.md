@@ -1,15 +1,24 @@
-# Day 001 — <Topic>
+# Day 001 — Python basics: print, variables, f-strings
 
-**Date started:** <YYYY-MM-DD>
+**Date started:** 2026-09-23
 
 ## What I learned
--
+- print() is how you show something on screen, whatever's inside the parentheses gets displayed
+- variables store a value under a name, the = sign means "store this", not "equals"
+- Python figures out the type on its own, I don't need to declare it upfront
+- naming rules: no spaces, can't start with a number, case sensitive
+- str, int and float are the basic types I'll be using constantly
+- type() tells you what type a variable actually is
+- f-strings let me drop variables straight into a sentence using {curly braces}
 
 ## Key concepts
--
+- variable assignment: `name = "Ved"`
+- f-string: `f"My name is {name}"`
+- type checking: `type(age)`
 
 ## Gotchas / things that confused me
--
+- ran the script while still inside the Python REPL (>>>) instead of my normal terminal, got a syntax error because Python tried to read a shell command as Python code
+- fix was just exiting the REPL with exit() and running python3 from the actual terminal prompt
 
 ## Links & references
 -
