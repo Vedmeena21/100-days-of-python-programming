@@ -1,6 +1,6 @@
 # 100 Days of Python
 
-My personal learning log while working through the **[100 Days of Python](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)** playlist by [CampusX](https://github.com/campusx-official/100-days-of-python-programming).
+My personal log of 100 days spent learning Python — one folder per day, tracking what I built, what I learned, and the problems I worked through.
 
 This isn't just a code dump — alongside code for each day you'll find notes on what I learned, practice questions I worked through, and any extra resources I picked up along the way.
 
