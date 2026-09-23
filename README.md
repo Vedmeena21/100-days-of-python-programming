@@ -39,8 +39,8 @@ Day numbers are zero-padded to 3 digits (`Day001` ... `Day100`) so folders sort 
 
 ## Tech stack
 
-- Python 3
-- Jupyter / VS Code
+- Python 3.14
+- VS Code
 
 ## License
 
